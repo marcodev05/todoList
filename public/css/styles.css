@@ -1,0 +1,4 @@
+html {
+    background-image: linear-gradient(50deg, rgb(125, 125, 179) 50%, lightblue 50%);
+    min-height: 1000px;
+}
